@@ -24,8 +24,8 @@ Testing the C Program for the desired output.
 
 ## PROGRAM :
 
-### DEVELOPED BY : ARUNMOZHI VARMAN T 
-### REG NO : 212223230022
+### DEVELOPED BY :KEERTHIKA M P
+### REG NO : 212223240071
 
 ### C Program that illustrate communication between two process using unnamed pipes using Linux API system calls:
 ```python
